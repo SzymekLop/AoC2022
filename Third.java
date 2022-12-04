@@ -71,7 +71,6 @@ public class Third {
         }
 
         return sum;
-
     }
 
     public static int solve2(String path){
