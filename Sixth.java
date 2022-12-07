@@ -1,8 +1,7 @@
 import java.io.*;
-import java.util.ArrayList;
 import java.util.HashMap;
 
-public class sixth {
+public class Sixth {
 
     public static int firstUniqueSubstring(String s, int length){
 
